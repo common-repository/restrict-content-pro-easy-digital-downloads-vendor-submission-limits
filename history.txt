@@ -1,0 +1,5 @@
+1.0.2 - 2021-09-14 - Jared Hill
+	Added new updater
+1.0.3 - 2021-09-14 - Jared Hill
+	Code Fix
+	Version Bump
